@@ -1,0 +1,15 @@
+body {
+    background-color: blueviolet;
+}
+
+#kopje {
+    background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li {
+    padding: 15px;
+    border: 1px solid black;
+    width: 60vw;
+}

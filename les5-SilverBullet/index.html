@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="updateDirections()">
+    
+    <div id="container">
+
+        <img id="myImage" src="img/0.jpeg" alt="foto sb">
+
+        <div id="myInteraction">
+            
+            <div id="myTitle">
+
+                Plaats 0
+
+            </div>
+
+            <input type="text" id="myInput" autocomplete="off">
+
+            <input id="button" type="button" value="Go!" onclick="getInput()">
+
+            <h6>
+                Kies welke richting je op gaat:
+            </h6>
+            <nav>
+                <button id="buttonNoord" onclick="goDirection('noord')">Noord</button>
+                <button id="buttonOost" onclick="goDirection('oost')">Oost</button>
+                <button id="buttonZuid" onclick="goDirection('zuid')">Zuid</button>
+                <button id="buttonWest" onclick="goDirection('west')">West</button>
+            </nav>
+            <img src="img/map_compass.png" alt="Map" class="map">
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

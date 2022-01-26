@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+
+}
+
+#boodschappen {
+    margin-bottom: 10px;
+}
+
+#koelkast {
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 10px;
+    color: midnightblue;
+}
+
+section {
+    border: 2px solid midnightblue;
+    padding: 10px;
+    min-height: 200px;
+}
+
+h2 {
+    margin: 0 0 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: white;
+    color: midnightblue;
+    font-size: 18px;
+    border: 2px solid midnightblue;
+}
+button:hover {
+    background-color: black;
+}
+
+.item {
+    color: midnightblue;
+    background-color: white;
+    margin: 0;
+}

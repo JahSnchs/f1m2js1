@@ -1,4 +1,4 @@
-# fase 1 Moodule 2 Museum Online
+# fase 1 Module 2 Museum Online
 ## Javascript
 
 Jah Sanches

@@ -3,8 +3,8 @@
 
 Jah Sanches
 
-[Background Color](http://127.0.0.1:5500/web/les1-background-color/index.html)
-[groceries](http://127.0.0.1:5500/les2-boodschappen/index.html)
-[tentoonstelling](http://127.0.0.1:5500/les3-tentoonstelling/index.html)
-[seasons](http://127.0.0.1:5500/les4-seasons/index.html)
-[Silver Bullet](http://127.0.0.1:5500/les5-SilverBullet/index.html)
+[Background Color](https://33965.hosts1.ma-cloud.nl/F1M2JS/les1-background-color/index.html)
+[groceries](https://33965.hosts1.ma-cloud.nl/F1M2JS/les2-boodschappen/index.html)
+[tentoonstelling](https://33965.hosts1.ma-cloud.nl/F1M2JS/les3-tentoonstelling/index.html)
+[seasons](https://33965.hosts1.ma-cloud.nl/F1M2JS/les4-seasons/index.html)
+[Silver Bullet](https://33965.hosts1.ma-cloud.nl/F1M2JS/les5-SilverBullet/index.html)
